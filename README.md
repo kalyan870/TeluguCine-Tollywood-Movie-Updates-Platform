@@ -23,3 +23,9 @@ The repository currently contains the project description, license, and ignore f
 ## Project status
 
 A demo URL is listed in the repository description, but this repository alone is not sufficient to reproduce the site. Add the source project and its setup/deployment details to make the project maintainable from GitHub.
+
+
+## Live concept preview
+
+[Open the interactive prototype](https://kalyan870.github.io/TeluguCine-Tollywood-Movie-Updates-Platform/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
+
