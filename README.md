@@ -29,3 +29,9 @@ A demo URL is listed in the repository description, but this repository alone is
 
 [Open the interactive prototype](https://kalyan870.github.io/TeluguCine-Tollywood-Movie-Updates-Platform/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
 
+## Architecture
+
+
+![TeluguCine-Tollywood-Movie-Updates-Platform architecture map](docs/images/telugucine-tollywood-movie-updates-platform-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/telugucine-tollywood-movie-updates-platform-architecture.svg)
